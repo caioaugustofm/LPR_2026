@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\bin\Debug\net9.0\exer4.exe
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\bin\Debug\net9.0\exer4.deps.json
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\bin\Debug\net9.0\exer4.runtimeconfig.json
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\bin\Debug\net9.0\exer4.dll
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\bin\Debug\net9.0\exer4.pdb
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.dll
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\refint\exer4.dll
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.pdb
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\exer4.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Caio_2026\LPR_2026\aula2\exer4\obj\Debug\net9.0\ref\exer4.dll
