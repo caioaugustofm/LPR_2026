@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exer4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03d66cf8ec8de7b299735b082394ffebef144bbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d8851c2c3722285c690f1ce0c3ea35c6fb2e53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("exer4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exer4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
