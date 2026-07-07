@@ -7,6 +7,7 @@ Repositório destinado ao armazenamento dos exercícios, atividades e exemplos d
 * **Instituição:** Escola Técnica de Eletrônica Francisco Moreira da Costa (ETEFMC)
 * **Disciplina:** Linguagem de Programação (LPR)
 * **Professor:** José Andery
+* **Aluno:** Caio Augusto Faria Machado
 * **Linguagens Utilizadas:** C++ e C#
 
 ## Sobre o Repositório
