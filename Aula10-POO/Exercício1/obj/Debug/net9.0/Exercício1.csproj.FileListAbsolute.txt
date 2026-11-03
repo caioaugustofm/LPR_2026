@@ -1,0 +1,8 @@
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.dll
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\refint\Exercício1.dll
+C:\Users\Alunos\Desktop\LPR_2026\Aula10-POO\Exercício1\obj\Debug\net9.0\Exercício1.pdb
